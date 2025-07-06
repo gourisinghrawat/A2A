@@ -1,0 +1,82 @@
+┣ 📂API
+┃ ┣ 📂backend
+┃ ┃ ┣ 📂backend
+┃ ┃ ┃ ┣ 📂__pycache__
+┃ ┃ ┃ ┣ 📜__init__.py
+┃ ┃ ┃ ┣ 📜asgi.py
+┃ ┃ ┃ ┣ 📜settings.py
+┃ ┃ ┃ ┣ 📜urls.py
+┃ ┃ ┃ ┗ 📜wsgi.py
+┃ ┃ ┣ 📂client
+┃ ┃ ┃ ┣ 📂__pycache__
+┃ ┃ ┃ ┣ 📂management
+┃ ┃ ┃ ┃ ┗ 📂commands
+┃ ┃ ┃ ┃   ┣ 📂__pycache__
+┃ ┃ ┃ ┃   ┣ 📜__init__.py
+┃ ┃ ┃ ┃   ┣ 📜import_data.py
+┃ ┃ ┃ ┃   ┣ 📜import_inventory.py
+┃ ┃ ┃ ┃   ┣ 📜tasks_update.py
+┃ ┃ ┃ ┃   ┣ 📜update_current_stock.py
+┃ ┃ ┃ ┃   ┣ 📜update_lead_fillfillment_time.py
+┃ ┃ ┃ ┃   ┗ 📜update_reorder_points.py
+┃ ┃ ┃ ┣ 📂migrations
+┃ ┃ ┃ ┃ ┣ 📂__pycache__
+┃ ┃ ┃ ┃ ┣ 📜__init__.py
+┃ ┃ ┃ ┃ ┣ 📜0001_initial.py
+┃ ┃ ┃ ┃ ┣ 📜0002_productinventory.py
+┃ ┃ ┃ ┃ ┣ 📜0003_rename_price_inr_product_price.py
+┃ ┃ ┃ ┃ ┣ 📜0004_product_storage_type.py
+┃ ┃ ┃ ┃ ┣ 📜0005_sales_units_sold.py
+┃ ┃ ┃ ┃ ┣ 📜0006_supplier.py
+┃ ┃ ┃ ┃ ┣ 📜0007_remove_product_id_remove_product_storage_type_and_more.py
+┃ ┃ ┃ ┃ ┣ 📜0008_productinventory_shelf_life.py
+┃ ┃ ┃ ┃ ┣ 📜0009_alter_product_product_type_and_more.py
+┃ ┃ ┃ ┃ ┣ 📜0010_alter_product_type_of_storage.py
+┃ ┃ ┃ ┃ ┣ 📜0011_productinventory_fulfillment_time_unit_and_more.py
+┃ ┃ ┃ ┃ ┣ 📜0012_productinventory_oreder_frequency.py
+┃ ┃ ┃ ┃ ┗ 📜0013_rename_oreder_frequency_productinventory_order_frequency.py
+┃ ┃ ┃ ┣ 📜__init__.py
+┃ ┃ ┃ ┣ 📜admin.py
+┃ ┃ ┃ ┣ 📜apps.py
+┃ ┃ ┃ ┣ 📜models.py
+┃ ┃ ┃ ┣ 📜tests.py
+┃ ┃ ┃ ┣ 📜urls.py
+┃ ┃ ┃ ┣ 📜utils.py
+┃ ┃ ┃ ┗ 📜views.py
+┃ ┃ ┗ 📜manage.py
+┃ ┗ 📂venv2
+┣ 📂extract_data
+┃ ┣ 📂trends_data
+┃ ┃ ┣ 📜combined_trends_2024.csv
+┃ ┃ ┣ 📜sales_data_weekly.csv
+┃ ┃ ┣ 📜trends_batch_0.csv
+┃ ┃ ┣ 📜trends_batch_10.csv
+┃ ┃ ┣ 📜trends_batch_15.csv
+┃ ┃ ┣ 📜trends_batch_20.csv
+┃ ┃ ┣ 📜trends_batch_25.csv
+┃ ┃ ┣ 📜trends_batch_30.csv
+┃ ┃ ┣ 📜trends_batch_35.csv
+┃ ┃ ┣ 📜trends_batch_5.csv
+┃ ┃ ┗ 📜trends_melted_2024.csv
+┃ ┣ 📂trends_data_25
+┃ ┃ ┣ 📜combined_trends_2025.csv
+┃ ┃ ┣ 📜sales_data_batch.csv
+┃ ┃ ┣ 📜trends_batch_0.csv
+┃ ┃ ┣ 📜trends_batch_10.csv
+┃ ┃ ┣ 📜trends_batch_15.csv
+┃ ┃ ┣ 📜trends_batch_20.csv
+┃ ┃ ┣ 📜trends_batch_25.csv
+┃ ┃ ┣ 📜trends_batch_30.csv
+┃ ┃ ┣ 📜trends_batch_35.csv
+┃ ┃ ┣ 📜trends_batch_5.csv
+┃ ┃ ┗ 📜trends_melted_2025.csv
+┃ ┣ 📂venv1
+┃ ┣ 📜extract.py
+┃ ┣ 📜groceries.csv
+┃ ┣ 📜sales_data_batch.csv
+┃ ┣ 📜sales_data_weekly.csv
+┃ ┣ 📜sales_groceries.py
+┃ ┗ 📜walmart_mumbai_cleaning_products_extended.csv
+┣ 📂frontend
+┣ 📜.gitignore
+┗ 📜file-tree-generator.ignorePatterns

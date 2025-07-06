@@ -1,0 +1,41 @@
+Product ID,Name,Price,Product_Type,Description,Supplier,Expiry Duration
+CLN001,Lizol Floor Cleaner (Citrus) 2L,230,Floor Cleaner,Disinfectant surface cleaner with citrus fragrance,Reckitt Benckiser,3 years
+CLN002,Colin Glass Cleaner 500ml,95,Glass Cleaner,"Streak-free formula for glass, windows & mirrors",Reckitt Benckiser,2 years
+CLN003,Vim Bar (3x150g),60,Dish Cleaning Bar,Lemon-based dishwash bar for tough grease,Hindustan Unilever,2 years
+CLN004,Surf Excel Quick Wash 2kg,450,Detergent Powder,High-efficiency detergent for machine wash,Hindustan Unilever,3 years
+CLN005,Harpic Toilet Cleaner 1L,149,Toilet Cleaner,Thick liquid cleaner with strong stain removal,Reckitt Benckiser,2 years
+CLN006,Dettol Antiseptic Liquid 500ml,130,Antiseptic Cleaner,Multipurpose disinfectant liquid for surfaces & wounds,Reckitt Benckiser,3 years
+CLN007,Scotch-Brite Scrub Pad (5 pcs),75,Scrub Pad,Tough cleaning pads for utensils,3M India,5 years
+CLN008,Domex Disinfectant Floor Cleaner,135,Floor Cleaner,Bleach-based cleaner with germ-kill formula,Hindustan Unilever,3 years
+CLN009,Pril Liquid Dishwash 750ml,155,Dishwashing Liquid,Power of lemon with fast grease cutting,Henkel India,2 years
+CLN010,Easy Off Bang Bathroom Cleaner,210,Bathroom Cleaner,"Removes soap scum, water marks, and limescale",Reckitt Benckiser,2 years
+CLN011,Surf Excel Matic Liquid 1L,245,Liquid Detergent,Designed for front-load washing machines,Hindustan Unilever,2 years
+CLN012,Dettol Surface Disinfectant Spray,170,Disinfectant Spray,Instant spray for hard & soft surfaces (Lavender),Reckitt Benckiser,2 years
+CLN013,Lizol Floral Disinfectant 2L,230,Floor Cleaner,Floral fragrance floor cleaner (99.9% germ kill),Reckitt Benckiser,3 years
+CLN014,Nirma Washing Powder 1kg,70,Detergent Powder,Budget detergent for everyday laundry,Nirma Ltd.,3 years
+CLN015,Fabuloso Multi-Surface Cleaner,220,Multi-surface,Lavender-scented liquid cleaner,Colgate-Palmolive,2 years
+CLN016,Tide Detergent Powder 2kg,240,Detergent Powder,Superior whiteness with Tide’s freshness,Procter & Gamble,3 years
+CLN017,Mr Muscle Kitchen Cleaner 500ml,165,Kitchen Cleaner,Cuts through tough kitchen grease,SC Johnson,2 years
+CLN018,Himalaya Gentle Baby Wipes (72),140,Wipes,Mild and gentle baby wipes with aloe vera,Himalaya Drug Company,1.5 years
+CLN019,Savlon Surface Disinfectant Spray,185,Disinfectant Spray,Kills 99.99% germs on surfaces,ITC Ltd.,2 years
+CLN020,Vanish Oxi Action Stain Remover 400g,199,Stain Remover,Powerful powder for tough laundry stains,Reckitt Benckiser,2.5 years
+CLN021,Lizol Lavender Disinfectant 1L,125,Floor Cleaner,Lizol Lavender Disinfectant 1L - effective and reliable for daily use,Reckitt Benckiser,3 years
+CLN022,Colin Multipurpose Spray 500ml,110,Glass Cleaner,Colin Multipurpose Spray 500ml - effective and reliable for daily use,Reckitt Benckiser,2 years
+CLN023,Vim Liquid Gel 500ml,105,Dishwashing Liquid,Vim Liquid Gel 500ml - effective and reliable for daily use,Hindustan Unilever,2 years
+CLN024,Tide Matic Front Load 1kg,260,Detergent Powder,Tide Matic Front Load 1kg - effective and reliable for daily use,Procter & Gamble,3 years
+CLN025,Harpic Power Plus 500ml,99,Toilet Cleaner,Harpic Power Plus 500ml - effective and reliable for daily use,Reckitt Benckiser,2 years
+CLN026,Dettol Hand Sanitizer 200ml,95,Antiseptic Cleaner,Dettol Hand Sanitizer 200ml - effective and reliable for daily use,Reckitt Benckiser,3 years
+CLN027,3M Scotch-Brite Heavy Duty,90,Scrub Pad,3M Scotch-Brite Heavy Duty - effective and reliable for daily use,3M India,5 years
+CLN028,Domex Toilet Cleaner 1L,145,Toilet Cleaner,Domex Toilet Cleaner 1L - effective and reliable for daily use,Hindustan Unilever,2 years
+CLN029,Pril Lime Dishwash 500ml,110,Dishwashing Liquid,Pril Lime Dishwash 500ml - effective and reliable for daily use,Henkel India,2 years
+CLN030,Mr Muscle Drain Cleaner 1L,199,Bathroom Cleaner,Mr Muscle Drain Cleaner 1L - effective and reliable for daily use,SC Johnson,2 years
+CLN031,Surf Excel Easy Wash 1kg,120,Detergent Powder,Surf Excel Easy Wash 1kg - effective and reliable for daily use,Hindustan Unilever,3 years
+CLN032,Savlon Antiseptic Liquid 500ml,135,Antiseptic Cleaner,Savlon Antiseptic Liquid 500ml - effective and reliable for daily use,ITC Ltd.,3 years
+CLN033,Dettol Hand Wash 750ml,165,Antiseptic Cleaner,Dettol Hand Wash 750ml - effective and reliable for daily use,Reckitt Benckiser,3 years
+CLN034,Lizol Pine Disinfectant 2L,220,Floor Cleaner,Lizol Pine Disinfectant 2L - effective and reliable for daily use,Reckitt Benckiser,3 years
+CLN035,Tide Plus Jasmine 1kg,115,Detergent Powder,Tide Plus Jasmine 1kg - effective and reliable for daily use,Procter & Gamble,3 years
+CLN036,Easy Off Bang Degreaser 750ml,185,Kitchen Cleaner,Easy Off Bang Degreaser 750ml - effective and reliable for daily use,Reckitt Benckiser,2 years
+CLN037,Harpic Bathroom Cleaner 500ml,110,Bathroom Cleaner,Harpic Bathroom Cleaner 500ml - effective and reliable for daily use,Reckitt Benckiser,2 years
+CLN038,Nirma Detergent Cake 250g,25,Detergent Powder,Nirma Detergent Cake 250g - effective and reliable for daily use,Nirma Ltd.,3 years
+CLN039,Fabuloso Citrus Multi-Cleaner,200,Multi-surface,Fabuloso Citrus Multi-Cleaner - effective and reliable for daily use,Colgate-Palmolive,2 years
+CLN040,Domex Surface Cleaner 1L,140,Floor Cleaner,Domex Surface Cleaner 1L - effective and reliable for daily use,Hindustan Unilever,3 years

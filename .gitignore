@@ -1,0 +1,50 @@
+# === Python ===
+*.pyc
+*.pyo
+__pycache__/
+*.log
+*.sqlite3
+
+# === Django ===
+*.db
+.env
+*.env
+.env.*
+
+# === VS Code / IDEs ===
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# === Virtual Environments ===
+venv/
+venv1/
+venv2/
+API/backend/venv2/
+extract_data/venv1/
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
+
+# === Node / Frontend (if using) ===
+node_modules/
+build/
+dist/
+
+# # === Extracted Data / Output Files (Optional) ===
+# *.csv
+# *.tsv
+# *.xlsx
+
+# If you want to ignore ALL your trend data files
+extract_data/trends_data/
+extract_data/trends_data_25/
+# extract_data/*.csv
+
+# === Compiled Files ===
+*.so
+*.dll
+*.exe
+*.out

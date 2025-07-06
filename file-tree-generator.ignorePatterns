@@ -1,0 +1,10 @@
+[
+  "venv",
+  "venv1",
+  "venv2",
+  "__pycache__",
+  ".git",
+  "node_modules",
+  "*.log",
+  "db.sqlite3"
+]

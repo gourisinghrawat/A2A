@@ -1,0 +1,51 @@
+Product ID,Name,Price,Product_Type,Description,Supplier,Expiry Duration,Storage_Type
+GROC001,Fortune Chakki Fresh Atta 5kg,230,Atta,Whole wheat flour for chapatis,Fortune,6 months,Ambient
+GROC002,Daawat Basmati Rice 1kg,155,Rice,Premium aged long grain rice,Daawat,12 months,Ambient
+GROC003,Tata Salt Iodized 1kg,28,Salt,Refined iodized salt for daily use,Tata,24 months,Ambient
+GROC004,Aashirvaad Select Atta 5kg,275,Atta,Sharbati wheat flour for softer rotis,ITC,6 months,Ambient
+GROC005,Maggi 2-Minute Noodles 420g,96,Instant Noodles,Classic masala noodles (6-pack),Nestlé,9 months,Ambient
+GROC006,Sunpure Refined Sunflower Oil 1L,145,Cooking Oil,Healthy sunflower oil for frying,Sunpure,9 months,Ambient
+GROC007,MDH Kitchen King Masala 100g,75,Spices,Blend of spices for curries,MDH,24 months,Ambient
+GROC008,Tata Sampann Moong Dal 1kg,130,Pulses,Unpolished yellow moong dal,Tata,12 months,Ambient
+GROC009,Rajdhani Besan 500g,65,Flour,Gram flour for pakoras and snacks,Rajdhani,6 months,Ambient
+GROC010,Amul Taaza Milk 1L (Tetra Pak),70,Milk,UHT milk with 6-month shelf life,Amul,6 months,Ambient
+GROC011,Saffola Oats 1kg,185,Oats,Healthy oats for breakfast,Saffola,9 months,Ambient
+GROC012,Quaker Oats 1kg,195,Oats,Classic rolled oats,Quaker,12 months,Ambient
+GROC013,Britannia Good Day Cashew 200g,45,Biscuits,Cashew-flavored crunchy biscuits,Britannia,9 months,Ambient
+GROC014,Parle-G Glucose Biscuits 800g,60,Biscuits,India’s classic glucose biscuit,Parle,9 months,Ambient
+GROC015,Haldiram’s Bhujia 400g,95,Snacks,Spicy gram flour sev snack,Haldiram’s,6 months,Ambient
+GROC016,Everest Red Chilli Powder 200g,70,Spices,Hot red chilli powder,Everest,24 months,Ambient
+GROC017,MTR Instant Upma Mix 500g,80,Ready-to-Cook,Ready-to-cook South Indian breakfast mix,MTR,9 months,Ambient
+GROC018,Bournvita Health Drink 500g,240,Health Drink,Malt-based chocolate health drink,Cadbury,12 months,Ambient
+GROC019,Nutrela Soya Chunks 200g,45,Soya,Soya chunks for protein-rich meals,Nutrela,12 months,Ambient
+GROC020,Tropicana Orange Juice 1L,110,Juice,100% fruit juice with no added sugar,PepsiCo,6 months,Ambient
+GROC021,Horlicks Classic Malt 500g,250,Health Drink,Nutritional supplement drink,GSK,12 months,Ambient
+GROC022,Kissan Mixed Fruit Jam 500g,160,Jam,Made with real fruit pulp and sugar,Kissan,18 months,Ambient
+GROC023,Patanjali Amla Juice 1L,120,Juice,Ayurvedic drink rich in Vitamin C,Patanjali,6 months,Ambient
+GROC024,MTR Ready-to-Eat Rajma 300g,90,Ready-to-Eat,Microwaveable North Indian curry,MTR,9 months,Ambient
+GROC025,Haldiram’s Soan Papdi 500g,130,Sweets,Traditional Indian sweet with flaky texture,Haldiram’s,Ambient,6 months
+GROC026,Amul Butter 500g,275,Butter,Salted cooking and table butter,Amul,6 months,Refrigerated
+GROC027,Amul Cheese Slices 200g,130,Cheese,Processed cheese slices (10 pcs),Amul,6 months,Refrigerated
+GROC028,Aavin Full Cream Milk 1L,68,Milk,UHT processed milk,Aavin,6 months,Ambient
+GROC029,Britannia Bourbon 150g,30,Biscuits,Chocolate cream sandwich biscuits,Britannia,9 months,Ambient
+GROC030,Kellogg’s Corn Flakes 1kg,340,Cereal,Crispy breakfast cereal,Kellogg’s,12 months,Ambient
+GROC031,Weikfield Custard Powder 100g,60,Dessert Mix,Vanilla flavored custard powder,Weikfield,12 months,Ambient
+GROC032,Sunfeast Yippee Noodles Magic Masala 420g,96,Instant Noodles,Instant noodles in spicy masala flavor,Sunfeast,9 months,Ambient
+GROC033,McCain Aloo Tikki 420g,115,Frozen Food,Frozen spiced potato patties,McCain,12 months,Frozen
+GROC034,ITC Bingo Mad Angles 110g,25,Snacks,Spicy triangle-shaped chips,ITC,6 months,Ambient
+GROC035,Borges Olive Oil 500ml,420,Cooking Oil,Extra virgin olive oil for cooking,Borges,24 months,Ambient
+GROC036,Golden Harvest Poha 1kg,65,Poha,Flattened rice for breakfast dishes,Golden Harvest,6 months,Ambient
+GROC037,Tata Sampann Urad Dal 1kg,125,Pulses,Split black gram dal,Tata,12 months,Ambient
+GROC038,Fortune Soya Bean Oil 1L,135,Cooking Oil,Refined soyabean oil for cooking,Fortune,9 months,Ambient
+GROC039,MTR Rasam Powder 200g,78,Spices,South Indian rasam masala blend,MTR,24 months,Ambient
+GROC040,Nestlé Everyday Dairy Whitener 400g,225,Dairy,Milk powder for tea and coffee,Nestlé,12 months,Ambient
+GROC041,Aashirvaad Instant Suji Halwa 300g,99,Ready-to-Eat,Microwave-ready Indian dessert,ITC,6 months,Ambient
+GROC042,Britannia Rusk 275g,45,Biscuits,Crunchy dry bread for tea-time,Britannia,9 months,Ambient
+GROC043,Dabur Honey 500g,199,Honey,100% pure and natural honey,Dabur,24 months,Ambient
+GROC044,Chings Secret Schezwan Chutney 250g,80,Condiment,Spicy Indo-Chinese sauce,Chings,12 months,Ambient
+GROC045,Kohinoor Super Basmati Rice 5kg,570,Rice,Premium long-grain aromatic rice,Kohinoor,24 months,Ambient
+GROC046,24 Mantra Organic Tur Dal 1kg,155,Pulses,Organic pigeon peas (toor dal),24 Mantra,12 months,Ambient
+GROC047,Nandini Curd 500g,45,Dairy,Fermented curd (packaged),Nandini,7 days,Refrigerated
+GROC048,Tang Orange Instant Drink Mix 750g,210,Beverage Mix,Flavored vitamin C drink mix,Tang,12 months,Ambient
+GROC049,Hershey’s Chocolate Syrup 623g,199,Condiment,Chocolate syrup for desserts,Hershey’s,18 months,Ambient
+GROC050,Mother Dairy Lassi 200ml,20,Drinkable Dairy,Sweetened curd-based drink,Mother Dairy,15 days,Refrigerated
