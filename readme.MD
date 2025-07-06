@@ -139,6 +139,4 @@ This project is built for educational/hackathon purposes. Contact for reuse or e
 
 ## ✨ Author
 
-**Gouri Singh Rawat**  
-💼 Thapar Institute of Engineering and Technology  
-📧
+**Gouri Singh Rawat**
